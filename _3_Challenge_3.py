@@ -14,9 +14,9 @@ class Student:
         return self.__rollnumber
 
 student = Student()
-student.setName("Ram")
+student.setName("Pratham")
 data = student.getName()
 print(data)
-student.setRollNumber(50)
+student.setRollNumber(04)
 data = student.getRollNumber()
 print(data)
