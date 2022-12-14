@@ -14,7 +14,7 @@ class Savings_account(Account):
         return self.intrest_rate
         
 
-saving =Savings_account("Pratham",5000,5)
+saving =Savings_account("Ashish",5000,5)
 print("Title : ",saving.title)
 print("Account Balance: ",saving.acount_balance)
 print("Intrest Rate : ",saving.intrest_rate)
